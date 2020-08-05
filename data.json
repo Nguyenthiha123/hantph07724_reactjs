@@ -1,0 +1,58 @@
+{
+  "category": [
+    {
+      "name": "Nam",
+      "id": 12
+    },
+    {
+      "name": "Nữ",
+      "id": 13
+    }
+  ],
+  "product": [
+    {
+      "id": 21,
+      "name": "Intelligent Wooden Shirt",
+      "image": "http://lorempixel.com/640/480/abstract",
+      "price": "407.00",
+      "id_user": 1,
+      "status": 1
+    },
+    {
+      "id": 22,
+      "name": "Small Metal Table",
+      "image": "http://lorempixel.com/640/480/fashion",
+      "price": "39.00",
+      "id_user": 2,
+      "status": 2
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "hà béo",
+      "images": "https://image2.tienphong.vn/w665/uploads/2018/10/5bc41f947aa93-1.jpg",
+      "role": 1
+    },
+    {
+      "id": 2,
+      "name": "hà mm",
+      "images": "https://image2.tienphong.vn/w665/uploads/2018/10/5bc41f947aa93-1.jpg",
+      "role": 2
+    }
+  ],
+  "checkOut": [
+    {
+      "id": 1,
+      "id_user": 1,
+      "id_product": 21,
+      "tong": "250"
+    },
+    {
+      "id": 2,
+      "id_user": 2,
+      "id_product": 22,
+      "tong": "250"
+    }
+  ]
+}
